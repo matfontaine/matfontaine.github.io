@@ -5,7 +5,7 @@
     <link>https://matfontaine.github.io/</link>
       <atom:link href="https://matfontaine.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Welcome to my homepage - Mathieu FONTAINE</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 09:33:26 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 09:41:50 +0000</lastBuildDate>
     <image>
       <url>https://matfontaine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Welcome to my homepage - Mathieu FONTAINE</title>
@@ -13,25 +13,9 @@
     </image>
     
     <item>
-      <title>Self-Supervised Generation of Spatial Audio for 360° Video</title>
-      <link>https://matfontaine.github.io/publication/morgado-self-supervised-nodate/</link>
-      <pubDate>Wed, 23 Dec 2020 09:33:26 +0000</pubDate>
-      <guid>https://matfontaine.github.io/publication/morgado-self-supervised-nodate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Amortized Inference Regularization</title>
-      <link>https://matfontaine.github.io/publication/shu-amortized-nodate/</link>
-      <pubDate>Wed, 23 Dec 2020 09:33:25 +0000</pubDate>
-      <guid>https://matfontaine.github.io/publication/shu-amortized-nodate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Fast Multichannel Correlated Tensor Factorization for Blind Source Separation</title>
       <link>https://matfontaine.github.io/publication/yoshii-fast-nodate/</link>
-      <pubDate>Wed, 23 Dec 2020 09:33:25 +0000</pubDate>
+      <pubDate>Wed, 23 Dec 2020 09:41:50 +0000</pubDate>
       <guid>https://matfontaine.github.io/publication/yoshii-fast-nodate/</guid>
       <description></description>
     </item>
@@ -39,7 +23,7 @@
     <item>
       <title>Semi-supervised Multichannel Speech Separation Based on a Phone-and Speaker-Aware Deep Generative Model of Speech Spectrograms</title>
       <link>https://matfontaine.github.io/publication/du-semi-supervised-nodate/</link>
-      <pubDate>Wed, 23 Dec 2020 09:33:25 +0000</pubDate>
+      <pubDate>Wed, 23 Dec 2020 09:41:50 +0000</pubDate>
       <guid>https://matfontaine.github.io/publication/du-semi-supervised-nodate/</guid>
       <description></description>
     </item>
@@ -47,16 +31,8 @@
     <item>
       <title>Zotero textbar Downloads</title>
       <link>https://matfontaine.github.io/publication/noauthor-zotero-nodate/</link>
-      <pubDate>Wed, 23 Dec 2020 09:33:23 +0000</pubDate>
+      <pubDate>Wed, 23 Dec 2020 09:41:49 +0000</pubDate>
       <guid>https://matfontaine.github.io/publication/noauthor-zotero-nodate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Supervised Contrastive Learning</title>
-      <link>https://matfontaine.github.io/publication/khosla-supervised-2020/</link>
-      <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://matfontaine.github.io/publication/khosla-supervised-2020/</guid>
       <description></description>
     </item>
     
@@ -73,14 +49,6 @@
       <link>https://matfontaine.github.io/publication/fontaine-unsupervised-2020/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://matfontaine.github.io/publication/fontaine-unsupervised-2020/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Augmented Reality Interface for Smart Home Control using SSVEP-BCI and Eye Gaze</title>
-      <link>https://matfontaine.github.io/publication/putze-augmented-2019/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://matfontaine.github.io/publication/putze-augmented-2019/</guid>
       <description></description>
     </item>
     
@@ -129,14 +97,6 @@
       <link>https://matfontaine.github.io/publication/fontaine-sketching-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://matfontaine.github.io/publication/fontaine-sketching-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Generalized hyperbolic distributions: theory and applications to CDO pricing</title>
-      <link>https://matfontaine.github.io/publication/hammerstein-generalized-2010/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>https://matfontaine.github.io/publication/hammerstein-generalized-2010/</guid>
       <description></description>
     </item>
     
