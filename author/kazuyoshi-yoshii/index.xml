@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kazuyoshi Yoshii | Welcome to my homepage - Mathieu FONTAINE</title>
+    <link>https://matfontaine.github.io/author/kazuyoshi-yoshii/</link>
+      <atom:link href="https://matfontaine.github.io/author/kazuyoshi-yoshii/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kazuyoshi Yoshii</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 09:33:25 +0000</lastBuildDate>
+    <image>
+      <url>https://matfontaine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Kazuyoshi Yoshii</title>
+      <link>https://matfontaine.github.io/author/kazuyoshi-yoshii/</link>
+    </image>
+    
+    <item>
+      <title>Fast Multichannel Correlated Tensor Factorization for Blind Source Separation</title>
+      <link>https://matfontaine.github.io/publication/yoshii-fast-nodate/</link>
+      <pubDate>Wed, 23 Dec 2020 09:33:25 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/yoshii-fast-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised Multichannel Speech Separation Based on a Phone-and Speaker-Aware Deep Generative Model of Speech Spectrograms</title>
+      <link>https://matfontaine.github.io/publication/du-semi-supervised-nodate/</link>
+      <pubDate>Wed, 23 Dec 2020 09:33:25 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/du-semi-supervised-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Robust Speech Enhancement Based on Alpha-Stable Fast Multichannel Nonnegative Matrix Factorization</title>
+      <link>https://matfontaine.github.io/publication/fontaine-unsupervised-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-unsupervised-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cauchy multichannel speech enhancement with a deep speech prior</title>
+      <link>https://matfontaine.github.io/publication/fontaine-cauchy-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-cauchy-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EAv Hammerstein | Welcome to my homepage - Mathieu FONTAINE</title>
+    <link>https://matfontaine.github.io/author/eav-hammerstein/</link>
+      <atom:link href="https://matfontaine.github.io/author/eav-hammerstein/index.xml" rel="self" type="application/rss+xml" />
+    <description>EAv Hammerstein</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://matfontaine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>EAv Hammerstein</title>
+      <link>https://matfontaine.github.io/author/eav-hammerstein/</link>
+    </image>
+    
+    <item>
+      <title>Generalized hyperbolic distributions: theory and applications to CDO pricing</title>
+      <link>https://matfontaine.github.io/publication/hammerstein-generalized-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/hammerstein-generalized-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

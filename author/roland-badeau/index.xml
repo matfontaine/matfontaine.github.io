@@ -5,12 +5,60 @@
     <link>https://matfontaine.github.io/author/roland-badeau/</link>
       <atom:link href="https://matfontaine.github.io/author/roland-badeau/index.xml" rel="self" type="application/rss+xml" />
     <description>Roland Badeau</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Feb 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://matfontaine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Roland Badeau</title>
       <link>https://matfontaine.github.io/author/roland-badeau/</link>
     </image>
+    
+    <item>
+      <title>Separation of alpha-stable random vectors</title>
+      <link>https://matfontaine.github.io/publication/fontaine-separation-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-separation-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cauchy multichannel speech enhancement with a deep speech prior</title>
+      <link>https://matfontaine.github.io/publication/fontaine-cauchy-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-cauchy-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multichannel audio modeling with elliptically stable tensor decomposition</title>
+      <link>https://matfontaine.github.io/publication/fontaine-multichannel-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-multichannel-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining the parameterized Wiener filter with alpha-stable processes</title>
+      <link>https://matfontaine.github.io/publication/fontaine-explaining-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-explaining-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable source localization with multichannel α-stable distributions</title>
+      <link>https://matfontaine.github.io/publication/fontaine-scalable-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-scalable-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketching for nearfield acoustic imaging of heavy-tailed sources</title>
+      <link>https://matfontaine.github.io/publication/fontaine-sketching-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-sketching-2017/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
