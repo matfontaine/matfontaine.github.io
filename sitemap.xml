@@ -3,7 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://matfontaine.github.io/publication-type/1/</loc>
+    <lastmod>2017-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matfontaine.github.io/author/antoine-liutkus/</loc>
+    <lastmod>2017-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://matfontaine.github.io/authors/</loc>
+    <lastmod>2017-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matfontaine.github.io/author/charles-vanwynsberghe/</loc>
+    <lastmod>2017-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matfontaine.github.io/author/mathieu-fontaine/</loc>
+    <lastmod>2017-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matfontaine.github.io/publication_types/</loc>
+    <lastmod>2017-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matfontaine.github.io/publication/</loc>
+    <lastmod>2017-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matfontaine.github.io/author/roland-badeau/</loc>
+    <lastmod>2017-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matfontaine.github.io/publication/lva-ica/</loc>
+    <lastmod>2017-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://matfontaine.github.io/</loc>
+    <lastmod>2017-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -19,23 +65,11 @@
   </url>
   
   <url>
-    <loc>https://matfontaine.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://matfontaine.github.io/publication/</loc>
-  </url>
-  
-  <url>
     <loc>https://matfontaine.github.io/talk/</loc>
   </url>
   
   <url>
     <loc>https://matfontaine.github.io/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://matfontaine.github.io/</loc>
   </url>
   
 </urlset>
