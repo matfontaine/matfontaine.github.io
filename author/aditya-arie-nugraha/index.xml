@@ -5,12 +5,28 @@
     <link>https://matfontaine.github.io/author/aditya-arie-nugraha/</link>
       <atom:link href="https://matfontaine.github.io/author/aditya-arie-nugraha/index.xml" rel="self" type="application/rss+xml" />
     <description>Aditya Arie Nugraha</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 09:41:50 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://matfontaine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Aditya Arie Nugraha</title>
       <link>https://matfontaine.github.io/author/aditya-arie-nugraha/</link>
     </image>
+    
+    <item>
+      <title>Fast Multichannel Correlated Tensor Factorization for Blind Source Separation</title>
+      <link>https://matfontaine.github.io/publication/yoshii-2021-fast/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/yoshii-2021-fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised Multichannel Speech Separation Based on a Phone-and Speaker-Aware Deep Generative Model of Speech Spectrograms</title>
+      <link>https://matfontaine.github.io/publication/du-2021-semi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/du-2021-semi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fast Multichannel Correlated Tensor Factorization for Blind Source Separation</title>
@@ -25,6 +41,14 @@
       <link>https://matfontaine.github.io/publication/du-semi-supervised-nodate/</link>
       <pubDate>Wed, 23 Dec 2020 09:41:50 +0000</pubDate>
       <guid>https://matfontaine.github.io/publication/du-semi-supervised-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow-Based Independent Vector Analysis for Blind Source Separation</title>
+      <link>https://matfontaine.github.io/publication/nugraha-2020-flow/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/nugraha-2020-flow/</guid>
       <description></description>
     </item>
     

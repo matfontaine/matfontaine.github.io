@@ -5,12 +5,28 @@
     <link>https://matfontaine.github.io/</link>
       <atom:link href="https://matfontaine.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Welcome to my homepage - Mathieu FONTAINE</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 09:41:50 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://matfontaine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Welcome to my homepage - Mathieu FONTAINE</title>
       <link>https://matfontaine.github.io/</link>
     </image>
+    
+    <item>
+      <title>Fast Multichannel Correlated Tensor Factorization for Blind Source Separation</title>
+      <link>https://matfontaine.github.io/publication/yoshii-2021-fast/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/yoshii-2021-fast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised Multichannel Speech Separation Based on a Phone-and Speaker-Aware Deep Generative Model of Speech Spectrograms</title>
+      <link>https://matfontaine.github.io/publication/du-2021-semi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/du-2021-semi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fast Multichannel Correlated Tensor Factorization for Blind Source Separation</title>
@@ -33,6 +49,14 @@
       <link>https://matfontaine.github.io/publication/noauthor-zotero-nodate/</link>
       <pubDate>Wed, 23 Dec 2020 09:41:49 +0000</pubDate>
       <guid>https://matfontaine.github.io/publication/noauthor-zotero-nodate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow-Based Independent Vector Analysis for Blind Source Separation</title>
+      <link>https://matfontaine.github.io/publication/nugraha-2020-flow/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/nugraha-2020-flow/</guid>
       <description></description>
     </item>
     
@@ -85,10 +109,34 @@
     </item>
     
     <item>
+      <title>Explaining the parameterized wiener filter with alpha-stable processes</title>
+      <link>https://matfontaine.github.io/publication/explainingfontaine-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/explainingfontaine-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Scalable source localization with multichannel α-stable distributions</title>
       <link>https://matfontaine.github.io/publication/fontaine-scalable-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://matfontaine.github.io/publication/fontaine-scalable-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable source localization with multichannel α-stable distributions</title>
+      <link>https://matfontaine.github.io/publication/scalablefontaine-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/scalablefontaine-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sketching for nearfield acoustic imaging of heavy-tailed sources</title>
+      <link>https://matfontaine.github.io/publication/fontaine-2017-sketching/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-2017-sketching/</guid>
       <description></description>
     </item>
     
