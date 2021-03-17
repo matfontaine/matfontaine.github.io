@@ -29,22 +29,6 @@
     </item>
     
     <item>
-      <title>Fast Multichannel Correlated Tensor Factorization for Blind Source Separation</title>
-      <link>https://matfontaine.github.io/publication/yoshii-fast-nodate/</link>
-      <pubDate>Wed, 23 Dec 2020 09:41:50 +0000</pubDate>
-      <guid>https://matfontaine.github.io/publication/yoshii-fast-nodate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Semi-supervised Multichannel Speech Separation Based on a Phone-and Speaker-Aware Deep Generative Model of Speech Spectrograms</title>
-      <link>https://matfontaine.github.io/publication/du-semi-supervised-nodate/</link>
-      <pubDate>Wed, 23 Dec 2020 09:41:50 +0000</pubDate>
-      <guid>https://matfontaine.github.io/publication/du-semi-supervised-nodate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Flow-Based Independent Vector Analysis for Blind Source Separation</title>
       <link>https://matfontaine.github.io/publication/nugraha-2020-flow/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -93,34 +77,10 @@
     </item>
     
     <item>
-      <title>Explaining the parameterized Wiener filter with alpha-stable processes</title>
-      <link>https://matfontaine.github.io/publication/fontaine-explaining-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://matfontaine.github.io/publication/fontaine-explaining-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Scalable source localization with multichannel α-stable distributions</title>
-      <link>https://matfontaine.github.io/publication/fontaine-scalable-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://matfontaine.github.io/publication/fontaine-scalable-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sketching for nearfield acoustic imaging of heavy-tailed sources</title>
       <link>https://matfontaine.github.io/publication/fontaine-2017-sketching/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://matfontaine.github.io/publication/fontaine-2017-sketching/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sketching for nearfield acoustic imaging of heavy-tailed sources</title>
-      <link>https://matfontaine.github.io/publication/fontaine-sketching-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://matfontaine.github.io/publication/fontaine-sketching-2017/</guid>
       <description></description>
     </item>
     
