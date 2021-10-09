@@ -5,20 +5,12 @@
     <link>https://matfontaine.github.io/author/m.-fontaine/</link>
       <atom:link href="https://matfontaine.github.io/author/m.-fontaine/index.xml" rel="self" type="application/rss+xml" />
     <description>M. Fontaine</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://matfontaine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>M. Fontaine</title>
       <link>https://matfontaine.github.io/author/m.-fontaine/</link>
     </image>
-    
-    <item>
-      <title>Flow-Based Independent Vector Analysis for Blind Source Separation</title>
-      <link>https://matfontaine.github.io/publication/nugraha-flow-based-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://matfontaine.github.io/publication/nugraha-flow-based-2020/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Explaining the parameterized wiener filter with alpha-stable processes</title>

@@ -35,15 +35,6 @@
     <loc>https://matfontaine.github.io/author/yoshiaki-bando/</loc>
     <lastmod>2021-10-09T19:51:13+02:00</lastmod>
   </url><url>
-    <loc>https://matfontaine.github.io/publication/du-semi-supervised-nodate/</loc>
-    <lastmod>2021-10-09T19:51:12+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/author/tatsuya-kawahara/</loc>
-    <lastmod>2021-10-09T19:51:12+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/author/yicheng-du/</loc>
-    <lastmod>2021-10-09T19:51:12+02:00</lastmod>
-  </url><url>
     <loc>https://matfontaine.github.io/publication/fontaine-alpha-stable-2021/</loc>
     <lastmod>2021-10-09T19:51:13+02:00</lastmod>
   </url><url>
@@ -122,101 +113,20 @@
     <loc>https://matfontaine.github.io/publication/du-2021-semi/</loc>
     <lastmod>2021-03-16T19:03:37+09:00</lastmod>
   </url><url>
+    <loc>https://matfontaine.github.io/author/tatsuya-kawahara/</loc>
+    <lastmod>2021-03-16T19:03:37+09:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/author/yicheng-du/</loc>
+    <lastmod>2021-03-16T19:03:37+09:00</lastmod>
+  </url><url>
     <loc>https://matfontaine.github.io/author/yoshiki-masuyama/</loc>
     <lastmod>2021-10-09T19:51:13+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/audio-signal-processing/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/backpropagation/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/complex-valued-spatial-domain/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/flow-blocks/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/flow-based-independent-vector-analysis/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/gradient-descent/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/gradient-methods/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/independent-vector-analysis/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/matrix-algebra/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/mixture-spectra/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/multichannel-audio-signals/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/neural-nets/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/nf-iva/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/nongaussian-source-model/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/normalizing-flow/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/optimization/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/probability-distribution/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/source-spectra/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/speech-separation/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/standards/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/time-invariant-bijective-linear-transformation/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/time-varying-bijective-linear-transformations/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/vectors/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/tag/volume-preserving-constraint/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/author/a.-a.-nugraha/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/author/antoine-liutkus/</loc>
     <lastmod>2021-10-09T19:51:12+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/publication/nugraha-2020-flow/</loc>
     <lastmod>2021-03-16T19:03:37+09:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/publication/nugraha-flow-based-2020/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/author/k.-sekiguchi/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/author/k.-yoshii/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/author/m.-fontaine/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/author/roland-badeau/</loc>
     <lastmod>2021-10-09T19:51:12+02:00</lastmod>
@@ -226,9 +136,6 @@
   </url><url>
     <loc>https://matfontaine.github.io/publication/fontaine-unsupervised-2020/</loc>
     <lastmod>2020-12-23T18:41:50+09:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/author/y.-bando/</loc>
-    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/publication-type/7/</loc>
     <lastmod>2020-12-23T18:41:49+09:00</lastmod>
@@ -277,6 +184,9 @@
   </url><url>
     <loc>https://matfontaine.github.io/author/laurent-girin/</loc>
     <lastmod>2021-10-09T19:51:12+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/author/m.-fontaine/</loc>
+    <lastmod>2021-03-16T19:03:37+09:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/author/r.-badeau/</loc>
     <lastmod>2021-03-16T19:03:37+09:00</lastmod>
