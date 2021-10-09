@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Training&#34; | Welcome to my homepage - Mathieu FONTAINE</title>
+    <link>https://matfontaine.github.io/tag/training/</link>
+      <atom:link href="https://matfontaine.github.io/tag/training/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Training&#34;</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://matfontaine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>&#34;Training&#34;</title>
+      <link>https://matfontaine.github.io/tag/training/</link>
+    </image>
+    
+    <item>
+      <title>Neural Full-Rank Spatial Covariance Analysis for Blind Source Separation</title>
+      <link>https://matfontaine.github.io/publication/bando-neural-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/bando-neural-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -3,64 +3,232 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://matfontaine.github.io/publication-type/1/</loc>
-    <lastmod>2021-03-16T19:03:38+09:00</lastmod>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/author/aditya-arie-nugraha/</loc>
-    <lastmod>2021-03-16T19:03:38+09:00</lastmod>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/authors/</loc>
-    <lastmod>2021-03-16T19:03:38+09:00</lastmod>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/publication/yoshii-fast-nodate/</loc>
+    <lastmod>2021-10-09T19:51:12+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/author/kazuyoshi-yoshii/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/author/kouhei-sekiguchi/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/author/mathieu-fontaine/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/publication_types/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/publication/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/author/yoshiaki-bando/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/publication/du-semi-supervised-nodate/</loc>
+    <lastmod>2021-10-09T19:51:12+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/author/tatsuya-kawahara/</loc>
+    <lastmod>2021-10-09T19:51:12+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/author/yicheng-du/</loc>
+    <lastmod>2021-10-09T19:51:12+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/publication/fontaine-alpha-stable-2021/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/adaptation-models/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/blind-dereverberation/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/blind-source-separation/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/computational-modeling/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/joint-diagonalization/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/multichannel-nonnegative-matrix-factorization/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/noise-measurement/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/probabilistic-logic/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/reverberation/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/time-frequency-analysis/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/publication/sekiguchi-autoregressive-2021/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tags/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/analytical-models/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/decoding/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/deep-generative-models/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/neural-networks/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/neural-source-separation/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/predictive-models/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/training/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/unsupervised-training/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/variational-autoencoders/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/publication-type/2/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/publication/yoshii-2021-fast/</loc>
     <lastmod>2021-03-16T19:03:38+09:00</lastmod>
   </url><url>
-    <loc>https://matfontaine.github.io/author/kazuyoshi-yoshii/</loc>
-    <lastmod>2021-03-16T19:03:38+09:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/author/kouhei-sekiguchi/</loc>
-    <lastmod>2021-03-16T19:03:38+09:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/author/mathieu-fontaine/</loc>
-    <lastmod>2021-03-16T19:03:38+09:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/publication_types/</loc>
-    <lastmod>2021-03-16T19:03:38+09:00</lastmod>
-  </url><url>
-    <loc>https://matfontaine.github.io/publication/</loc>
-    <lastmod>2021-03-16T19:03:38+09:00</lastmod>
+    <loc>https://matfontaine.github.io/publication/bando-neural-2021/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/publication/du-2021-semi/</loc>
     <lastmod>2021-03-16T19:03:37+09:00</lastmod>
   </url><url>
-    <loc>https://matfontaine.github.io/author/tatsuya-kawahara/</loc>
-    <lastmod>2021-03-16T19:03:37+09:00</lastmod>
+    <loc>https://matfontaine.github.io/author/yoshiki-masuyama/</loc>
+    <lastmod>2021-10-09T19:51:13+02:00</lastmod>
   </url><url>
-    <loc>https://matfontaine.github.io/</loc>
-    <lastmod>2021-03-16T19:03:38+09:00</lastmod>
+    <loc>https://matfontaine.github.io/tag/audio-signal-processing/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
   </url><url>
-    <loc>https://matfontaine.github.io/author/yicheng-du/</loc>
-    <lastmod>2021-03-16T19:03:37+09:00</lastmod>
+    <loc>https://matfontaine.github.io/tag/backpropagation/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
   </url><url>
-    <loc>https://matfontaine.github.io/author/yoshiaki-bando/</loc>
-    <lastmod>2021-03-16T19:03:38+09:00</lastmod>
+    <loc>https://matfontaine.github.io/tag/complex-valued-spatial-domain/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
   </url><url>
-    <loc>https://matfontaine.github.io/publication-type/2/</loc>
-    <lastmod>2021-03-16T19:03:37+09:00</lastmod>
+    <loc>https://matfontaine.github.io/tag/flow-blocks/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/flow-based-independent-vector-analysis/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/gradient-descent/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/gradient-methods/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/independent-vector-analysis/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/matrix-algebra/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/mixture-spectra/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/multichannel-audio-signals/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/neural-nets/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/nf-iva/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/nongaussian-source-model/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/normalizing-flow/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/optimization/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/probability-distribution/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/source-spectra/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/speech-separation/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/standards/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/time-invariant-bijective-linear-transformation/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/time-varying-bijective-linear-transformations/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/vectors/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/tag/volume-preserving-constraint/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/author/a.-a.-nugraha/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/author/antoine-liutkus/</loc>
-    <lastmod>2021-03-16T19:03:37+09:00</lastmod>
+    <lastmod>2021-10-09T19:51:12+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/publication/nugraha-2020-flow/</loc>
     <lastmod>2021-03-16T19:03:37+09:00</lastmod>
   </url><url>
+    <loc>https://matfontaine.github.io/publication/nugraha-flow-based-2020/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/author/k.-sekiguchi/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/author/k.-yoshii/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/author/m.-fontaine/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
     <loc>https://matfontaine.github.io/author/roland-badeau/</loc>
-    <lastmod>2021-03-16T19:03:37+09:00</lastmod>
+    <lastmod>2021-10-09T19:51:12+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/publication/fontaine-separation-2020/</loc>
     <lastmod>2020-12-23T18:41:50+09:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/publication/fontaine-unsupervised-2020/</loc>
     <lastmod>2020-12-23T18:41:50+09:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/author/y.-bando/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/publication-type/7/</loc>
     <lastmod>2020-12-23T18:41:49+09:00</lastmod>
@@ -71,17 +239,23 @@
     <loc>https://matfontaine.github.io/publication/fontaine-processus-2019/</loc>
     <lastmod>2020-12-23T18:41:49+09:00</lastmod>
   </url><url>
+    <loc>https://matfontaine.github.io/publication-type/6/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
     <loc>https://matfontaine.github.io/author/fabian-robert-stoter/</loc>
-    <lastmod>2020-12-23T18:41:50+09:00</lastmod>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/publication/deville-multichannel-2018/</loc>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/publication/fontaine-multichannel-2018/</loc>
     <lastmod>2020-12-23T18:41:50+09:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/author/romain-serizel/</loc>
-    <lastmod>2020-12-23T18:41:50+09:00</lastmod>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/author/umut-simsekli/</loc>
-    <lastmod>2020-12-23T18:41:50+09:00</lastmod>
+    <lastmod>2021-10-09T19:51:11+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/author/a.-liutkus/</loc>
     <lastmod>2021-03-16T19:03:37+09:00</lastmod>
@@ -90,7 +264,10 @@
     <lastmod>2021-03-16T19:03:37+09:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/author/charles-vanwynsberghe/</loc>
-    <lastmod>2021-03-16T19:03:37+09:00</lastmod>
+    <lastmod>2021-10-09T19:51:12+02:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/publication/fontaine-explaining-2017/</loc>
+    <lastmod>2021-10-09T19:51:12+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/publication/explainingfontaine-17/</loc>
     <lastmod>2021-03-16T19:03:37+09:00</lastmod>
@@ -98,17 +275,23 @@
     <loc>https://matfontaine.github.io/author/l.-girin/</loc>
     <lastmod>2021-03-16T19:03:37+09:00</lastmod>
   </url><url>
-    <loc>https://matfontaine.github.io/author/m.-fontaine/</loc>
-    <lastmod>2021-03-16T19:03:37+09:00</lastmod>
+    <loc>https://matfontaine.github.io/author/laurent-girin/</loc>
+    <lastmod>2021-10-09T19:51:12+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/author/r.-badeau/</loc>
     <lastmod>2021-03-16T19:03:37+09:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/publication/fontaine-scalable-2017/</loc>
+    <lastmod>2021-10-09T19:51:12+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/publication/scalablefontaine-17/</loc>
     <lastmod>2021-03-16T19:03:37+09:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/publication/fontaine-2017-sketching/</loc>
     <lastmod>2021-03-16T19:03:37+09:00</lastmod>
+  </url><url>
+    <loc>https://matfontaine.github.io/publication/fontaine-sketching-2017/</loc>
+    <lastmod>2021-10-09T19:51:12+02:00</lastmod>
   </url><url>
     <loc>https://matfontaine.github.io/categories/</loc>
   </url><url>
@@ -117,7 +300,5 @@
     <loc>https://matfontaine.github.io/post/</loc>
   </url><url>
     <loc>https://matfontaine.github.io/talk/</loc>
-  </url><url>
-    <loc>https://matfontaine.github.io/tags/</loc>
   </url>
 </urlset>
