@@ -164,5 +164,32 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Teaching</title>
+      <link>https://matfontaine.github.io/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/teaching/</guid>
+      <description>&lt;h1 id=&#34;courses&#34;&gt;Courses&lt;/h1&gt;
+&lt;h2 id=&#34;1st-year-engineer-school&#34;&gt;1st-year Engineer School&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;MDI-104 (Theory &amp;amp; Probability)&lt;/li&gt;
+&lt;li&gt;SI-101 (Basics for signal processing) → &lt;strong&gt;project-based learning&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;2nd-year-engineer-school&#34;&gt;2nd-year Engineer School&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;TSIA202a (Time series, AR/ARMA etc.)&lt;/li&gt;
+&lt;li&gt;TSIA202b (Periodogram, HR methods etc.)&lt;/li&gt;
+&lt;li&gt;TSIA206 (Audio Source Separation)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;student-and-adult-project&#34;&gt;Student and Adult Project&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;(2021-2022) - Projet Fil Rouge (”anomaly detection” with EDF Sinclair)&lt;/li&gt;
+&lt;li&gt;(2021-2022) - Projet d’application musicales - ATIAM (audio source separation in a real acoustic environment)&lt;/li&gt;
+&lt;li&gt;Formation continue (energy prediction using machine learning)&lt;/li&gt;
+&lt;li&gt;PhD Track project → Deep Griffin-Lim algorithm on music tracks&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
