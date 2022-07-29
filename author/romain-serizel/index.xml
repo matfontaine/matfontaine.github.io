@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Romain Serizel | Welcome to my homepage - Mathieu FONTAINE</title>
+    <title>Romain Serizel | Mathieu FONTAINE - Télécom Paris</title>
     <link>https://matfontaine.github.io/author/romain-serizel/</link>
       <atom:link href="https://matfontaine.github.io/author/romain-serizel/index.xml" rel="self" type="application/rss+xml" />
     <description>Romain Serizel</description>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Multichannel Audio Modeling with Elliptically Stable Tensor Decomposition</title>
-      <link>https://matfontaine.github.io/publication/deville-multichannel-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://matfontaine.github.io/publication/deville-multichannel-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multichannel audio modeling with elliptically stable tensor decomposition</title>
       <link>https://matfontaine.github.io/publication/fontaine-multichannel-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>https://matfontaine.github.io/publication/fontaine-multichannel-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multichannel Audio Modeling with Elliptically Stable Tensor Decomposition</title>
+      <link>https://matfontaine.github.io/publication/deville-multichannel-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/deville-multichannel-2018/</guid>
       <description></description>
     </item>
     

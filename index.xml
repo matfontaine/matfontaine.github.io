@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Welcome to my homepage - Mathieu FONTAINE</title>
+    <title>Mathieu FONTAINE - Télécom Paris</title>
     <link>https://matfontaine.github.io/</link>
       <atom:link href="https://matfontaine.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Welcome to my homepage - Mathieu FONTAINE</description>
+    <description>Mathieu FONTAINE - Télécom Paris</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Oct 2021 17:51:12 +0000</lastBuildDate>
     <image>
       <url>https://matfontaine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Welcome to my homepage - Mathieu FONTAINE</title>
+      <title>Mathieu FONTAINE - Télécom Paris</title>
       <link>https://matfontaine.github.io/</link>
     </image>
     
@@ -101,14 +101,6 @@
     </item>
     
     <item>
-      <title>Multichannel Audio Modeling with Elliptically Stable Tensor Decomposition</title>
-      <link>https://matfontaine.github.io/publication/deville-multichannel-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://matfontaine.github.io/publication/deville-multichannel-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multichannel audio modeling with elliptically stable tensor decomposition</title>
       <link>https://matfontaine.github.io/publication/fontaine-multichannel-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -117,10 +109,10 @@
     </item>
     
     <item>
-      <title>Explaining the parameterized Wiener filter with alpha-stable processes</title>
-      <link>https://matfontaine.github.io/publication/fontaine-explaining-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://matfontaine.github.io/publication/fontaine-explaining-2017/</guid>
+      <title>Multichannel Audio Modeling with Elliptically Stable Tensor Decomposition</title>
+      <link>https://matfontaine.github.io/publication/deville-multichannel-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/deville-multichannel-2018/</guid>
       <description></description>
     </item>
     
@@ -129,6 +121,14 @@
       <link>https://matfontaine.github.io/publication/explainingfontaine-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>https://matfontaine.github.io/publication/explainingfontaine-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explaining the parameterized Wiener filter with alpha-stable processes</title>
+      <link>https://matfontaine.github.io/publication/fontaine-explaining-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-explaining-2017/</guid>
       <description></description>
     </item>
     
