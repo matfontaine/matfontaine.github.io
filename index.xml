@@ -165,6 +165,70 @@
     </item>
     
     <item>
+      <title>Research &amp; Projects</title>
+      <link>https://matfontaine.github.io/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/research/</guid>
+      <description>&lt;h2 id=&#34;fundings&#34;&gt;💰Fundings&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;(2023-2026)&lt;/em&gt; → ANR JCJC (SAROUMANE) on &lt;em&gt;speaker diarization&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;→ &lt;strong&gt;(~300k€)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(&lt;em&gt;2022-2023)&lt;/em&gt; → HI! Project (MASTER-AI) on &lt;em&gt;stochastic models for artificial intelligence&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;→ &lt;strong&gt;(~ 10k€)&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;phd-students&#34;&gt;👨🏻‍🏫Ph.D. Students&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;(2022 - 2025)&lt;/em&gt; → Louis BAHRMAN
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Topic&lt;/em&gt;: Speech/Audio dereverberation by hybrid deep neural modelling&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Supervisors&lt;/em&gt;: Gaël RICHARD &amp;amp; Mathieu FONTAINE &lt;em&gt;&lt;strong&gt;(Télécom Paris)&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;(2022 - 2025)&lt;/em&gt; → Anton EMELCHENKOV
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Topic&lt;/em&gt;: Detecting outliers in locally stationary time series&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Supervisors&lt;/em&gt;:
+&lt;ul&gt;
+&lt;li&gt;François ROUEFF, Mathieu FONTAINE &amp;amp; Yves GRENIER &lt;em&gt;&lt;strong&gt;(Télécom Paris)&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Hervé Mahé &lt;em&gt;&lt;strong&gt;(Valéo)&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;intern-students&#34;&gt;👨🏻‍💻Intern Students&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;(2022)&lt;/em&gt; → Jean-Daniel PASCAL
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Topic&lt;/em&gt;: Audio source separation using a multivariate α-stable mixing model&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Supervisors&lt;/em&gt;: Mathieu FONTAINE &amp;amp; Roland BADEAU &lt;em&gt;&lt;strong&gt;(Télécom Paris)&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;(2022)&lt;/em&gt; → Eloi MASSOULIE
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Topic&lt;/em&gt;: Deep learning for joint detection and tracking of mobile sound sources via a moving microphone array&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Supervisors&lt;/em&gt;:
+&lt;ul&gt;
+&lt;li&gt;Slim ESSID, Gaël RICHARD &amp;amp; Mathieu FONTAINE &lt;em&gt;&lt;strong&gt;(Télécom Paris)&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Patrick PEREZ &lt;em&gt;&lt;strong&gt;(Valéo)&lt;/strong&gt;&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;others&#34;&gt;🧑🏻‍🔬Others&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;I am also guest scientist at RIKEN AIP in &lt;strong&gt;Sound Scene Understanding team&lt;/strong&gt; of Kazuyoshi YOSHII in Kyoto, Japan &lt;a href=&#34;https://aip.riken.jp/labs/goalorient_tech/sound_scene_understand/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(click here to visit their website)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;I involved in the (&lt;strong&gt;Audio Data Analysis and Signal Processing)&lt;/strong&gt; ADASP group at Télécom Paris &lt;a href=&#34;https://adasp.telecom-paris.fr/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;(click here to visit their website)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>https://matfontaine.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -183,12 +247,12 @@
 &lt;/ul&gt;
 &lt;h2 id=&#34;-student-and-adult-projects&#34;&gt;🚀 Student and Adult Projects&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;(2021-2022)&lt;/em&gt; → Projet Fil Rouge&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;code&gt;anomaly detection w/ EDF Sinclair &amp;amp; ENSTA&lt;/code&gt;&lt;/p&gt;
-&lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;&lt;em&gt;(2021-2022)&lt;/em&gt; → Projet d’application musicales (PAM) - ATIAM&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;(2021-2022)&lt;/em&gt; → Projet Fil Rouge&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;anomaly detection w/ EDF Sinclair &amp;amp; ENSTA&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;em&gt;(2021-2022)&lt;/em&gt; → Projet d’application musicale (PAM) - ATIAM&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;audio source separation in a real acoustic environment&lt;/code&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
