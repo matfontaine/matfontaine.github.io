@@ -233,35 +233,26 @@
       <link>https://matfontaine.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://matfontaine.github.io/teaching/</guid>
-      <description>&lt;h2 id=&#34;-courses&#34;&gt;🧑🏻‍🎓 Courses&lt;/h2&gt;
+      <description>&lt;h2 id=&#34;courses-&#34;&gt;Courses 🧑🏻‍🎓&lt;/h2&gt;
 &lt;h3 id=&#34;1st-year-engineer-school&#34;&gt;1st-year Engineer School&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;MDI-104&lt;/em&gt; → Theory &amp;amp; Probability&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;MDI-104&lt;/em&gt; → Theory &amp;amp; Probability (&lt;a href=&#34;https://matfontaine.github.io/MDI104&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt; &lt;em&gt;in French&lt;/em&gt;)&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;SI-101&lt;/em&gt; → Fundamentals for signal processing (&lt;strong&gt;project-based learning)&lt;/strong&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id=&#34;2nd-year-engineer-school&#34;&gt;2nd-year Engineer School&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;TSIA202a →&lt;/em&gt;Time series, AR/ARMA &amp;hellip;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;TSIA202b →&lt;/em&gt; Periodogram, HR methods …&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;TSIA206&lt;/em&gt; → Audio Source Separation&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;TSIA206&lt;/em&gt; → Audio Source Separation (&lt;a href=&#34;https://matfontaine.github.io/MASS_Course&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;slides&lt;/a&gt;)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;-student-and-adult-projects&#34;&gt;🚀 Student and Adult Projects&lt;/h2&gt;
+&lt;h2 id=&#34;student-and-adult-project-&#34;&gt;Student and Adult Project 🚀&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;(2021-2022)&lt;/em&gt; → Projet Fil Rouge&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;anomaly detection w/ EDF Sinclair &amp;amp; ENSTA&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;(2021-2022)&lt;/em&gt; → Projet d’application musicale (PAM) - ATIAM&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;audio source separation in a real acoustic environment&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;(2022)&lt;/em&gt; → Formation continue&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;energy consumption prediction using machine learning&lt;/code&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;em&gt;(2022)&lt;/em&gt; → PhD Track project&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;Deep Griffin-Lim algorithm on music tracks&lt;/code&gt;&lt;/p&gt;
+&lt;li&gt;Projet Fil Rouge,  Projet d’application musicales (PAM) - ATIAM, Formation continue,  PhD Track project&lt;/li&gt;
+&lt;li&gt;PACT (Project for 1st-year Engineer student)
+&lt;ul&gt;
+&lt;li&gt;PACT on MFCC &lt;a href=&#34;https://matfontaine.github.io/PACT-MFCC&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; &lt;em&gt;in French&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;PACT on CHROMA &lt;a href=&#34;https://matfontaine.github.io/PACT-CHROMA&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt; &lt;em&gt;in French&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 </description>
