@@ -5,23 +5,71 @@
     <link>https://matfontaine.github.io/publication-type/2/</link>
       <atom:link href="https://matfontaine.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://matfontaine.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://matfontaine.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://matfontaine.github.io/publication-type/2/</link>
     </image>
     
     <item>
-      <title>Neural Full-Rank Spatial Covariance Analysis for Blind Source Separation</title>
-      <link>https://matfontaine.github.io/publication/bando-neural-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://matfontaine.github.io/publication/bando-neural-2021/</guid>
+      <title>A lightweight dual-stage framework for personalized speech enhancement based on DeepFilterNet2</title>
+      <link>https://matfontaine.github.io/publication/serre-2024-lightweight/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/serre-2024-lightweight/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Flow-Based Independent Vector Analysis for Blind Source Separation</title>
+      <title>Online speaker diarization of meetings guided by speech separation</title>
+      <link>https://matfontaine.github.io/publication/gruttadauria-2024-online/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/gruttadauria-2024-online/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilient Multiple Choice Learning: A learned scoring scheme with application to audio scene analysis</title>
+      <link>https://matfontaine.github.io/publication/letzelter-2024-resilient/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/letzelter-2024-resilient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural steerer: Novel steering vector synthesis with a causal neural field over frequency and source positions</title>
+      <link>https://matfontaine.github.io/publication/di-2023-neural/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/di-2023-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Autoregressive Moving Average Jointly-Diagonalizable Spatial Covariance Analysis for Joint Source Separation and Dereverberation</title>
+      <link>https://matfontaine.github.io/publication/sekiguchi-2022-autoregressive/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/sekiguchi-2022-autoregressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Fast Multichannel Nonnegative Matrix Factorization Based on Gaussian Scale Mixtures for Blind Source Separation</title>
+      <link>https://matfontaine.github.io/publication/fontaine-2022-generalized/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-2022-generalized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural full-rank spatial covariance analysis for blind source separation</title>
+      <link>https://matfontaine.github.io/publication/bando-2021-neural/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/bando-2021-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flow-based independent vector analysis for blind source separation</title>
       <link>https://matfontaine.github.io/publication/nugraha-2020-flow/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://matfontaine.github.io/publication/nugraha-2020-flow/</guid>
@@ -30,9 +78,9 @@
     
     <item>
       <title>Separation of alpha-stable random vectors</title>
-      <link>https://matfontaine.github.io/publication/fontaine-separation-2020/</link>
+      <link>https://matfontaine.github.io/publication/fontaine-2020-separation/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://matfontaine.github.io/publication/fontaine-separation-2020/</guid>
+      <guid>https://matfontaine.github.io/publication/fontaine-2020-separation/</guid>
       <description></description>
     </item>
     
