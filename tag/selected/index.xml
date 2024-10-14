@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>selected | Mathieu FONTAINE - Télécom Paris</title>
+    <link>https://matfontaine.github.io/tag/selected/</link>
+      <atom:link href="https://matfontaine.github.io/tag/selected/index.xml" rel="self" type="application/rss+xml" />
+    <description>selected</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://matfontaine.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>selected</title>
+      <link>https://matfontaine.github.io/tag/selected/</link>
+    </image>
+    
+    <item>
+      <title>A lightweight dual-stage framework for personalized speech enhancement based on DeepFilterNet2</title>
+      <link>https://matfontaine.github.io/publication/serre-2024-lightweight/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/serre-2024-lightweight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GLA-Grad: A Griffin-Lim Extended Waveform Generation Diffusion Model</title>
+      <link>https://matfontaine.github.io/publication/liu-2024-gla/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/liu-2024-gla/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resilient Multiple Choice Learning: A learned scoring scheme with application to audio scene analysis</title>
+      <link>https://matfontaine.github.io/publication/letzelter-2024-resilient/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/letzelter-2024-resilient/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RIR-in-a-Box: Estimating Room Acoustics from 3D Mesh Data through Shoebox Approximation</title>
+      <link>https://matfontaine.github.io/publication/kelley-2024-rir/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/kelley-2024-rir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SpecDiff-GAN: A Spectrally-Shaped Noise Diffusion GAN for Speech and Music Synthesis</title>
+      <link>https://matfontaine.github.io/publication/baoueb-2024-specdiff/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/baoueb-2024-specdiff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech dereverberation constrained on room impulse response characteristics</title>
+      <link>https://matfontaine.github.io/publication/bahrman-2024-speech/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/bahrman-2024-speech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural steerer: Novel steering vector synthesis with a causal neural field over frequency and source positions</title>
+      <link>https://matfontaine.github.io/publication/di-2023-neural/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/di-2023-neural/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Direction-Aware Joint Adaptation of Neural Speech Enhancement and Recognition in Real Multiparty Conversational Environments</title>
+      <link>https://matfontaine.github.io/publication/du-2022-direction/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/du-2022-direction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Fast Multichannel Nonnegative Matrix Factorization Based on Gaussian Scale Mixtures for Blind Source Separation</title>
+      <link>https://matfontaine.github.io/publication/fontaine-2022-generalized/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fontaine-2022-generalized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

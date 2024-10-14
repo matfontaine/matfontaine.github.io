@@ -21,10 +21,42 @@
     </item>
     
     <item>
+      <title>Multifrequency Highly Oscillating Aperiodic Amplitude Estimation for Nonlinear Chirp Signal</title>
+      <link>https://matfontaine.github.io/publication/emelchenkov-2024-multifrequency/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/emelchenkov-2024-multifrequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RIR-in-a-Box: Estimating Room Acoustics from 3D Mesh Data through Shoebox Approximation</title>
+      <link>https://matfontaine.github.io/publication/kelley-2024-rir/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/kelley-2024-rir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Run-Time Adaptation of Neural Beamforming for Robust Speech Dereverberation and Denoising</title>
+      <link>https://matfontaine.github.io/publication/fujita-2024-run/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fujita-2024-run/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SpecDiff-GAN: A Spectrally-Shaped Noise Diffusion GAN for Speech and Music Synthesis</title>
       <link>https://matfontaine.github.io/publication/baoueb-2024-specdiff/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://matfontaine.github.io/publication/baoueb-2024-specdiff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech dereverberation constrained on room impulse response characteristics</title>
+      <link>https://matfontaine.github.io/publication/bahrman-2024-speech/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/bahrman-2024-speech/</guid>
       <description></description>
     </item>
     

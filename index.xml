@@ -29,6 +29,14 @@
     </item>
     
     <item>
+      <title>Multifrequency Highly Oscillating Aperiodic Amplitude Estimation for Nonlinear Chirp Signal</title>
+      <link>https://matfontaine.github.io/publication/emelchenkov-2024-multifrequency/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/emelchenkov-2024-multifrequency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Online speaker diarization of meetings guided by speech separation</title>
       <link>https://matfontaine.github.io/publication/gruttadauria-2024-online/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
@@ -45,10 +53,34 @@
     </item>
     
     <item>
+      <title>RIR-in-a-Box: Estimating Room Acoustics from 3D Mesh Data through Shoebox Approximation</title>
+      <link>https://matfontaine.github.io/publication/kelley-2024-rir/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/kelley-2024-rir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Run-Time Adaptation of Neural Beamforming for Robust Speech Dereverberation and Denoising</title>
+      <link>https://matfontaine.github.io/publication/fujita-2024-run/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/fujita-2024-run/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SpecDiff-GAN: A Spectrally-Shaped Noise Diffusion GAN for Speech and Music Synthesis</title>
       <link>https://matfontaine.github.io/publication/baoueb-2024-specdiff/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://matfontaine.github.io/publication/baoueb-2024-specdiff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speech dereverberation constrained on room impulse response characteristics</title>
+      <link>https://matfontaine.github.io/publication/bahrman-2024-speech/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://matfontaine.github.io/publication/bahrman-2024-speech/</guid>
       <description></description>
     </item>
     
@@ -380,7 +412,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-217485369&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-649728513&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -390,7 +422,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-217485369&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-649728513&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -970,7 +1002,7 @@ $$&lt;/p&gt;
       <guid>https://matfontaine.github.io/research/</guid>
       <description>&lt;h2 id=&#34;-fundings&#34;&gt;💰 Fundings&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;em&gt;(2024-2028)&lt;/em&gt; → CIEDS Project (FakeDetect) on &lt;em&gt;multimodality for deep fake detection&lt;/em&gt; &lt;em&gt;(Collaborator)&lt;/em&gt; &lt;strong&gt;(~1 M€)&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;(2024-2028)&lt;/em&gt; → CIEDS Project (FakeDetect) on &lt;em&gt;multimodality for deep fake detection&lt;/em&gt; &lt;em&gt;(Collaborator)&lt;/em&gt; &lt;strong&gt;(~150k€)&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;(2024)&lt;/em&gt; → HI! Project (DARHAM) on &lt;em&gt;dataset of augmented reality headset for acoustic matching&lt;/em&gt; &lt;em&gt;(P.I.)&lt;/em&gt; &lt;strong&gt;(~10k€)&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;(2023-2026)&lt;/em&gt; → ANR JCJC (SAROUMANE) on &lt;em&gt;speaker diarization&lt;/em&gt; &lt;em&gt;(P.I.)&lt;/em&gt; &lt;strong&gt;(~270k€)&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;(2022-2024)&lt;/em&gt; → HI! Project (MASTER-AI) on &lt;em&gt;stochastic models for artificial intelligence&lt;/em&gt; &lt;em&gt;(P.I.)&lt;/em&gt; &lt;strong&gt;(~10k€)&lt;/strong&gt;&lt;/li&gt;
@@ -1057,14 +1089,11 @@ $$&lt;/p&gt;
 &lt;/ul&gt;
 &lt;/p&gt;
 &lt;/details&gt;&lt;/p&gt;
-&lt;h3 id=&#34;intern-students--research-engineer&#34;&gt;Intern Students &amp;amp; Research Engineer&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Haocheng LIU (guided gradient descent through multivariate alpha-stable models), Polina  BARABANSHCHIKOVA (RKHS and diffusion models), Wen YANG (forecasting demand for electric vehicle) and Liam KELLEY (Research Engineer on DARHAM project)&lt;/li&gt;
-&lt;/ul&gt;
+&lt;!-- ### Intern Students &amp; Research Engineer --&gt;
 &lt;h2 id=&#34;--past-students&#34;&gt;👨🏻‍💻  Past Students&lt;/h2&gt;
-&lt;h3 id=&#34;interns&#34;&gt;Interns&lt;/h3&gt;
+&lt;h3 id=&#34;interns--research-engineers&#34;&gt;Interns &amp;amp; Research Engineers&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Jean-Daniel PASCAL (Audio source separation), Eloi MASSOULIE (tracking of mobile sound sources), Haocheng LIU (Audio Diffusion Model and domain adapatation), Teysir BAOUEB (Audio diffusion model &amp;amp; GAN)&lt;/li&gt;
+&lt;li&gt;Jean-Daniel PASCAL (Audio source separation), Eloi MASSOULIE (tracking of mobile sound sources), , Teysir BAOUEB (Audio diffusion model &amp;amp; GAN), Haocheng LIU (guided gradient descent through multivariate alpha-stable models), Polina  BARABANSHCHIKOVA (RKHS and diffusion models), Wen YANG (forecasting demand for electric vehicle) and Liam KELLEY (Research Engineer on DARHAM project)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;-others&#34;&gt;🧑🏻‍🔬 Others&lt;/h2&gt;
 &lt;ul&gt;
